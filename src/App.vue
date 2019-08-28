@@ -7,6 +7,7 @@
           <el-menu-item index="/ElasticGantt">Elastic Gantt</el-menu-item>
           <el-menu-item index="/FrappeGantt">Frappe Gantt</el-menu-item>
           <el-menu-item index="/DhtmlxGantt">dhtmlxGantt</el-menu-item>
+          <el-menu-item index="/GoogleGantt">GoogleGantt</el-menu-item>
         </el-menu-item-group>
       </el-menu>
     </el-aside>
